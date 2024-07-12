@@ -214,7 +214,7 @@ const App = () => {
         >
           <canvas ref={canvasRef} className="inline-block"></canvas>
           <h1 className=" absolute m-0 p-0 text-[#f9f1e9] text-center top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-4xl uppercase tracking-[0.1em] font-thin">
-            Connect <span className=" font-thin">Three</span>
+            Connect <span className=" font-thin">SANDF_M17</span>
           </h1>
         </div>
       </div>
