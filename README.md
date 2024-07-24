@@ -1,4 +1,4 @@
-# Spyderweb Background Component with GSAP
+# Spyderweb Background React Component with GSAP
 
 This React component creates a background animation resembling a spiderweb using GSAP.
 
@@ -19,6 +19,7 @@ This React component creates a background animation resembling a spiderweb using
 ```javascript
 import Spyderweb from './Spyderweb';
 ```
+
 **Credits:**
 
 SANDF_M17
